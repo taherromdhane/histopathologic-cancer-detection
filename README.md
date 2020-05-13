@@ -1,5 +1,8 @@
 # Histopathologic Cancer Detection [Genovision]
 
+This is a volunteering project by Taher Romdhane and Achraf Haddar, members of the Data Co-Lab Engineering departement. Through this effort, we aim to help promote AI in HealthCare by helping doctors optimize their decision making when it comes to sensitive cases. 
+Data Co-Lab is the first Data Science lab for Students and Educators, aiming to empower AI culture in Tunisia. If you want to know more about, you can check our website here : http://www.data-co-lab.com/ .
+
 ## Training
 **You can view the training process in more detail in the "Histopathological Cancer Detection - training" notebook.**
 
